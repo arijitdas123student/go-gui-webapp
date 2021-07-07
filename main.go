@@ -1,3 +1,6 @@
+// main golang file
+// install dependencies using ./install.sh
+// to run the app enter "go run main.go"
 package main
 
 import (
